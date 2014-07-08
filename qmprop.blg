@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: qmprop.aux
+The style file: plain.bst
+Database file #1: qmprop.bib
+Database file #2: common.bib
+You've used 14 entries,
+            2118 wiz_defined-function locations,
+            665 strings with 7511 characters,
+and the built_in function-call counts, 5013 in all, are:
+= -- 472
+> -- 304
+< -- 0
++ -- 120
+- -- 106
+* -- 419
+:= -- 881
+add.period$ -- 42
+call.type$ -- 14
+change.case$ -- 93
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 148
+empty$ -- 342
+format.name$ -- 106
+if$ -- 987
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 13
+newline$ -- 73
+num.names$ -- 28
+pop$ -- 80
+preamble$ -- 1
+purify$ -- 81
+quote$ -- 0
+skip$ -- 98
+stack$ -- 0
+substring$ -- 295
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 54
+warning$ -- 0
+while$ -- 44
+width$ -- 16
+write$ -- 154

@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{Alpert:1990}
+B.~Alpert.
+\newblock {\em Sparse Representation of Smooth Linear Operators}.
+\newblock PhD thesis, Yale University, 1990.
+
+\bibitem{A-B-G-V:2002}
+B.~Alpert, G.~Beylkin, D.~Gines, and L.~Vozovoi.
+\newblock Adaptive solution of partial differential equations in multiwavelet
+  bases.
+\newblock {\em J. Comput. Phys.}, 182(1):149--190, 2002.
+
+\bibitem{Alpert:2002cx}
+B~Alpert, G~Beylkin, D~Gines, and L~Vozovoi.
+\newblock {Adaptive solution of partial differential equations in multiwavelet
+  bases}.
+\newblock {\em Journal of Computational Physics}, 182(1):149--190, 2002.
+
+\bibitem{Chin:2001vs}
+SA~Chin and CR~Chen.
+\newblock {Fourth order gradient symplectic integrator methods for solving the
+  time-dependent Schr{\"o}dinger equation}.
+\newblock {\em The Journal of Chemical Physics}, 114:7338, 2001.
+
+\bibitem{ibmpaper}
+G.~Fann, G.~Beylkin, R.~J. Harrison, and K.~E. Jordan.
+\newblock Singular operators in multiwavelet bases.
+\newblock {\em IBM J. Res. Dev.}, 48(2):161--171, 2004.
+
+\bibitem{mrqc1}
+Robert~J. Harrison, George~I. Fann, Takeshi Yanai, Zhengting Gan, and Gregory
+  Beylkin.
+\newblock Multiresolution quantum chemistry: Basic theory and initial
+  applications.
+\newblock {\em Journal of Chemical Physics}, 121(23):11587--11598, 2004.
+
+\bibitem{Krausz:2009hz}
+Ferenc Krausz and Misha Ivanov.
+\newblock {Attosecond physics}.
+\newblock {\em Reviews Of Modern Physics}, 81(1):163--234, 2009.
+
+\bibitem{Leforestier:1991co}
+C~Leforestier, R~H Bisseling, C~Cerjan, M~D Feit, R~Friesner, A~Guldberg,
+  A~Hammerich, G~Jolicard, W~Karrlein, H~D Meyer, N~Lipkin, O~Roncero, and
+  R~Kosloff.
+\newblock {A comparison of different propagation schemes for the time dependent
+  Schr{\"o}dinger equation}.
+\newblock {\em Journal of Computational Physics}, 94(1):59--80, May 1991.
+
+\bibitem{Lin:2010cg}
+C~D Lin, Anh-Thu Le, Zhangjin Chen, Toru Morishita, and Robert Lucchese.
+\newblock {Strong-field rescattering physics---self-imaging of a molecule by
+  its own electrons}.
+\newblock {\em Journal Of Physics B-Atomic Molecular And Optical Physics},
+  43(12):122001, June 2010.
+
+\bibitem{madnessDOC}
+MADNESS.
+\newblock http://code.google.com/p/m-a-d-n-e-s-s/downloads/list.
+\newblock Implementation Notes, 2011.
+
+\bibitem{force-gradient}
+I.~P. Omelyan, I.~M. Mryglod, and R.~Folk.
+\newblock Construction of high-order force-gradient algorithms for integration
+  of motion in classical and quantum systems.
+\newblock {\em Phys. Rev. E}, 66:026701, Aug 2002.
+
+\bibitem{Popmintchev:2010di}
+Tenio Popmintchev, Ming-Chang Chen, Paul Arpin, Margaret~M Murnane, and Henry~C
+  Kapteyn.
+\newblock {The attosecond nonlinear optics of bright coherent X-ray
+  generation}.
+\newblock {\em Nature Photonics}, 4(12):822--832, December 2010.
+
+\bibitem{Ta07}
+David~J. Tannor.
+\newblock {\em Introduction to Quantum Mechanics: A time-dependent
+  perspective}.
+\newblock University Science Books, 2007.
+
+\bibitem{Vence:2012iy}
+Nicholas Vence, Robert Harrison, and Predrag Krstic.
+\newblock {Attosecond electron dynamics: A multiresolution approach}.
+\newblock {\em Physical Review A}, 85(3), March 2012.
+
+\end{thebibliography}
